@@ -19,6 +19,6 @@
 <br>
 <br>
 
-Для просмотра репозитория на github можете писать сюда:
+**Для просмотра репозитория на github можете писать сюда:**
 - Telegram @Ypyachka
 - Mail vladimirov.nikita.98@mail.ru
