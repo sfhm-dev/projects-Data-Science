@@ -18,6 +18,9 @@
 
 ## [Bootstrap project](https://github.com/sfhm-dev/projects-Data-Science/tree/main/Bootstrap_project)
 Предоставлены пробы нефти в регионах. Определить регион, где добыча принесёт наибольшую прибыль. Проанализировать возможную прибыль и риски техникой Bootstrap.
+
+## [Предсказание значения коэффициента восстановления золота из руды](https://github.com/sfhm-dev/projects-Data-Science/tree/main/prediction%20of%20the%20value%20of%20the%20recovery%20rate%20of%20gold)
+Необходимо создать модель, котоаря должна предсказать коэффициент восстановления золота из золотосодержащей руды.
 <br>
 <br>
 <br>
