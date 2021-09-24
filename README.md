@@ -1,6 +1,6 @@
 ## Здесь собраны мои решения различных кейсов из области Data Science.
 
-**Для связи можно воспользоваться - https://telegram.me/ypyachka**
+**Для связи обращаться - https://telegram.me/ypyachka**
 
 ## [Определение перспективного тарифа для телеком компании (EDA)](https://github.com/sfhm-dev/projects-Data-Science/tree/main/Determination%20of%20a%20promising%20tariff%20for%20a%20telecom%20company)
 В распоряжении данные 500 пользователей за 2018 год. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
